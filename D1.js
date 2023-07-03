@@ -9,7 +9,7 @@ REGOLE
 
 /* ESERCIZIO 1
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
-*/ 
+*/
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
@@ -23,18 +23,18 @@ REGOLE
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
-*/ 
+*/
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-const name = "Davide"; 
-console.log (name);
+const name = "Davide";
+console.log(name);
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-console.log (12+20);
+console.log(12 + 20);
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
@@ -42,7 +42,7 @@ console.log (12+20);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 let x = 12;
-console.log (x);
+console.log(x);
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
@@ -58,7 +58,7 @@ console.log (name);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-console.log (4 - x);
+console.log(4 - x);
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -69,5 +69,5 @@ console.log (4 - x);
 /* SCRIVI QUI LA TUA RISPOSTA */
 let name1 = "john";
 let name2 = "John";
-console.log (name1 === name2);
-console.log (name1 === name2.toLowerCase());
+console.log(name1 === name2);
+console.log(name1 === name2.toLowerCase());

@@ -26,6 +26,7 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+console.log("Esercizio 2");
 const name = "Davide";
 console.log(name);
 
@@ -34,6 +35,7 @@ console.log(name);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+console.log("Esercizio 3");
 console.log(12 + 20);
 
 /* ESERCIZIO 4
@@ -41,6 +43,7 @@ console.log(12 + 20);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+console.log("Esercizio 4");
 let x = 12;
 console.log(x);
 
@@ -50,6 +53,7 @@ console.log(x);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+console.log("Esercizio 5");
 /*name = "Bragagnolo";
 console.log (name);
 
@@ -58,7 +62,9 @@ console.log (name);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-console.log(4 - x);
+console.log("Esercizio 6");
+let subtraction = 4 - x;
+console.log(subtraction);
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -67,7 +73,8 @@ console.log(4 - x);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+console.log("Esercizio 7");
 let name1 = "john";
 let name2 = "John";
-console.log(name1 === name2);
-console.log(name1 === name2.toLowerCase());
+console.log("name1 e name2 sono uguali:", name1 === name2);
+console.log("name1 e name2 in lowercase sono uguali:", name1.toLowerCase() === name2.toLowerCase());
